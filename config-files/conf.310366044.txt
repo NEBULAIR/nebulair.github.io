@@ -1,2 +1,5 @@
+>9;15;30;10<
+This file contain the application parameters
+CSV format is used for the first ligne.
+Only the first line is used all the others are for comment purpose.
 DAY_START;DAY_TIME;PUMP_FREQ;WATER_UP_TIME;
->9;15;30;10;
